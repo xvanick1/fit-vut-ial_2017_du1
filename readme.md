@@ -34,11 +34,13 @@ Pokud je některý ze souborů *.output prázdný nebo výpis končí uprostřed
 Prosím také, abyste si přiložené soubory pečlivě prostudoval(a) dříve, než začnete své hodnocení reklamovat. Reklamace je možná pouze osobně v kanceláři C306 (přes e-mail se reklamace nedají rozumně vyřídit), a to v konzultačních hodinách ve středu 22.11 od 8:00 do 9:00, budu zde minimalne do 10:00 (když mě zastihnete v kanceláři, lze i mimo tyto vyhlášené hodiny). Děkuji za pochopení! 
 
 -------------------------- Přiložené soubory -------------------------------- 
+
 tests.tar.gz - soubor testovacích programů napsaných v C. S těmito soubory byly Vaše projekty kompilovány. 
 template-outputs.tar.gz - vzorové výstupy z testovacích skriptů. S těmito soubory byly porovnávány výstupy z Vašeho programu. 
 xlogin00.tar.gz - výstupy Vašich skiptů (*.output), výsledky porovnávání (*.results), logy z kompilace (*.log) a makefily, se kterými byly příklady kompilovány (Makefile.*). 
 
 ----------------------------- Bodovací tabulka ------------------------------ 
+
 Příklady v úloze: c202 až 3 body, c204 až 3 body, c206 až 4 body
 Jednotlivé testy:
 c202-test(max_9_OK):
@@ -64,13 +66,13 @@ c206-advanced-test(max_58_OK):
 	46<=pocet_OK<58: 1 b.
 	58<=pocet_OK: 2 b. 
 
------------------------- Bodové hodnocení pro xvanic09 -----------------------
+------------------------ Bodové hodnocení pro xvanic09-----------------------
 c202-test(max_9_OK) - počet získaných bodů: 2 (9 sections OK)
 c202-advanced-test(max_19_OK) - počet získaných bodů: 0 (15 sections OK)
 c204-test(max_15_OK) - počet získaných bodů: 2 (15 sections OK)
 c204-advanced-test(max_19_OK) - počet získaných bodů: 1 (19 sections OK)
 c206-test(max_18_OK) - počet získaných bodů: 2 (18 sections OK)
 c206-advanced-test(max_58_OK) - počet získaných bodů: 0 (0 sections OK)
-----------------
+
 Celkem: 7 bodů
 
