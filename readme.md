@@ -67,6 +67,7 @@ c206-advanced-test(max_58_OK):
 	58<=pocet_OK: 2 b. 
 
 ------------------------ Bodové hodnocení pro xvanic09-----------------------
+
 c202-test(max_9_OK) - počet získaných bodů: 2 (9 sections OK)
 c202-advanced-test(max_19_OK) - počet získaných bodů: 0 (15 sections OK)
 c204-test(max_15_OK) - počet získaných bodů: 2 (15 sections OK)
